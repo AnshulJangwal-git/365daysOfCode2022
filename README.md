@@ -1,6 +1,12 @@
 # 365DaysOfCode_2022
+                                               #Day21
+Topic - Arrays & Strings
+1. Long Pressed Name - https://leetcode.com/problems/long-pressed-name/
+2. Range Addition - https://www.lintcode.com/problem/range-addition/description
+
+
                                                #Day20
-Topic - HashMap<>() ;
+Topic - HashMap
 1. Random pick with blacklist  -  https://leetcode.com/problems/random-pick-with-blacklist/
 2. Avoid flood in the city -  https://leetcode.com/problems/avoid-flood-in-the-city/
 
