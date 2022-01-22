@@ -1,7 +1,7 @@
 //Leetcode 840 - https://leetcode.com/problems/magic-squares-in-grid/
 import java.util.* ;
 
-class magicSquareInGrid{
+class $04magicSquareInGrid{
     public boolean checkMagicSquare(int i, int j, int[][] grid){
           if(i - 1 < 0 || j - 1 < 0 || i + 1 >= grid.length || j + 1 >= grid[0].length){
               return false ;
