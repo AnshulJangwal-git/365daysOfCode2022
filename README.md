@@ -1,4 +1,8 @@
 # 365DaysOfCode_2022
+                                               #Day22
+1. max Range query  -  https://www.codechef.com/problems/MAXREMOV
+2. Magic Square in a grid - https://leetcode.com/problems/magic-squares-in-grid/
+
                                                #Day21
 Topic - Arrays & Strings
 1. Long Pressed Name - https://leetcode.com/problems/long-pressed-name/
