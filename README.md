@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day23
+1. square of a sorted Array  -  https://leetcode.com/problems/squares-of-a-sorted-array/
+2. container with most water  -  https://leetcode.com/problems/container-with-most-water/
+3. Majority Element1  -  https://leetcode.com/problems/majority-element/
+
                                                #Day22
 1. max Range query  -  https://www.codechef.com/problems/MAXREMOV
 2. Magic Square in a grid - https://leetcode.com/problems/magic-squares-in-grid/
