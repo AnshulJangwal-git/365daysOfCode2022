@@ -1,3 +1,5 @@
+//variables -> Types : Primitive - numbers, Strings, boolean, null
+
 var myName = "Anshul Jangwal"
 // console.log(myName) ;
 
