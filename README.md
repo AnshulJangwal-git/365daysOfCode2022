@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day24
+Topic - Arrays&Strings
+1. Majority Elements 2nd  -  https://leetcode.com/problems/majority-element-ii/
+2. Majority Elements General - https://nados.io/question/majority-element-general
+3. Next Greater Element 3rd - https://leetcode.com/problems/next-greater-element-iii/
+
                                                #Day23
 Topic - Arrays&Strings
 1. square of a sorted Array  -  https://leetcode.com/problems/squares-of-a-sorted-array/
