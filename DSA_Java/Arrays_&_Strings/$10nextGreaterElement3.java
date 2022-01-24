@@ -47,5 +47,4 @@ class $10nextGreaterElement3 {
         return -1 ;
     }
     
-    
 }
