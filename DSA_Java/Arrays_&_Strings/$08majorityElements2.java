@@ -1,6 +1,5 @@
 //Leetcode 229 - https://leetcode.com/problems/majority-element-ii/
 import java.util.* ;
-
 class $08majorityElements2 {
     
     public List<Integer> majorityElement(int[] arr) {
