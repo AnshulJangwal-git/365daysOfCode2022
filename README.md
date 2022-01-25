@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day15
+Topic - Arrays&Strings
+1. Product of Array Except Itself  -  https://leetcode.com/problems/product-of-array-except-self/
+2. Reverse Vowels of a String -  https://leetcode.com/problems/reverse-vowels-of-a-string/
+3. Complex Number Multiplication -  https://leetcode.com/problems/complex-number-multiplication/ 
+
                                                #Day24
 Topic - Arrays&Strings
 1. Majority Elements 2nd  -  https://leetcode.com/problems/majority-element-ii/
