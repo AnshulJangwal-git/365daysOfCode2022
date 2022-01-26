@@ -1,4 +1,12 @@
 # 365DaysOfCode_2022
+                                               #Day26
+Topic - Arrays&Strings
+1. First Missing Positive  -  https://leetcode.com/problems/first-missing-positive/
+2. Maximum Product of three Numbers - https://leetcode.com/problems/maximum-product-of-three-numbers/
+3. Max Chunks to make array Sorted - https://leetcode.com/problems/max-chunks-to-make-sorted/
+4. 
+
+
                                                #Day25
 Topic - Arrays&Strings
 1. Product of Array Except Itself  -  https://leetcode.com/problems/product-of-array-except-self/
