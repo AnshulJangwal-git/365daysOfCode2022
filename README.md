@@ -1,9 +1,15 @@
 # 365DaysOfCode_2022
+                                               #Day27
+Topic - Arrays&Strings
+1. max Chunks to Sorted2 - https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+2. Partition array into disjoint Intervals - https://leetcode.com/problems/partition-array-into-disjoint-intervals/
+3. partition Labels - https://leetcode.com/problems/partition-labels/
+
                                                #Day26
 Topic - Arrays&Strings
 1. First Missing Positive  -  https://leetcode.com/problems/first-missing-positive/
 2. Maximum Product of three Numbers - https://leetcode.com/problems/maximum-product-of-three-numbers/
-3. Max Chunks to make array Sorted - https://leetcode.com/problems/max-chunks-to-make-sorted/
+3. Max Chunks to make array Sorted - https://leetcode.com/problems/max-chunks-to-make-sorted/    
 
 
                                                #Day25
