@@ -1,6 +1,6 @@
 //Leetcode 628 - https://leetcode.com/problems/maximum-product-of-three-numbers/
-class Solution {
-    public int $15maximumProductOfThreeNumberst(int[] nums) {
+class $15maximumProductOfThreeNumberst {
+    public int maximumProduct(int[] nums) {
         // int n = nums.length ;
         
 //         Arrays.sort(nums) ; // O(nlog(n))
