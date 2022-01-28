@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day28
+1. min Jumps with (+i -i) Moves - https://nados.io/question/min-jumps-with-i-i-moves
+2. sort Array By Parity - https://leetcode.com/problems/sort-array-by-parity/
+3. Best meeting Point - https://nados.io/question/best-meeting-point
+
+
                                                #Day27
 Topic - Arrays&Strings
 1. max Chunks to Sorted2 - https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
