@@ -1,5 +1,11 @@
 # 365DaysOfCode_2022
+                                               #Day29
+Topic - Arrays&Strings
+1. Pascal's Triangle 2 - https://leetcode.com/problems/pascals-triangle-ii/
+2. Add Strings - https://leetcode.com/problems/add-strings/ 
+
                                                #Day28
+Topic - Arrays&Strings
 1. min Jumps with (+i -i) Moves - https://nados.io/question/min-jumps-with-i-i-moves
 2. sort Array By Parity - https://leetcode.com/problems/sort-array-by-parity/
 3. Best meeting Point - https://nados.io/question/best-meeting-point
