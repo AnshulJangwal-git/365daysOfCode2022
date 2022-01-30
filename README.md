@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day30
+Topic - Arrays&Strings
+1. multiply Strings - https://leetcode.com/problems/multiply-strings/
+2. sieve of Eratosthenes - https://nados.io/question/sieve-of-eratosthenes
+3. segmented sieve - https://nados.io/question/segmented-sieve
+
                                                #Day29
 Topic - Arrays&Strings
 1. Pascal's Triangle 2 - https://leetcode.com/problems/pascals-triangle-ii/
