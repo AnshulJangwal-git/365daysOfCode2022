@@ -1,3 +1,4 @@
+//Link - https://leetcode.com/problems/transpose-matrix/
 class $28transposeOfMatrix {
     public int[][] transpose(int[][] matrix) {
         int[][] res = new int[matrix[0].length][matrix.length] ;
