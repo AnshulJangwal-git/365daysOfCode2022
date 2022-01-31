@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day31
+Topic - Arrays&Strings
+1. Rotate Image - https://leetcode.com/problems/rotate-image/
+2. Wiggle Sort1 - https://nados.io/question/wiggle-sort-1
+3. Wiggle Sort2 - https://leetcode.com/problems/wiggle-sort-ii/
+
                                                #Day30
 Topic - Arrays&Strings
 1. multiply Strings - https://leetcode.com/problems/multiply-strings/
