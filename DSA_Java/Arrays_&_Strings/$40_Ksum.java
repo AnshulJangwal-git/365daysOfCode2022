@@ -1,7 +1,7 @@
 //Link - https://nados.io/question/k-sum-target-sum-unique-set
 import java.util.*;
 
-public class $39_Ksum {
+public class $40_Ksum {
 
   public static List<List<Integer>> kSum(int[] arr, int target, int k) {
     Arrays.sort(arr) ;

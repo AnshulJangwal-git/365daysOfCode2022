@@ -1,7 +1,7 @@
 //Link - https://leetcode.com/problems/4sum/
 import java.util.* ;
 
-class $38_4sum {
+class $39_4sum {
 
     public List<List<Integer>> fourSum(int[] nums, int target) {
       List<List<Integer>> ans = new ArrayList<>() ;

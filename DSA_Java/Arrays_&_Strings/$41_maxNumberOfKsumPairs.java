@@ -1,6 +1,6 @@
 //Leetcode.1679 - https://leetcode.com/problems/max-number-of-k-sum-pairs/
 import java.util.* ;
-class $40_maxNumberOfKsumPairs {
+class $41_maxNumberOfKsumPairs {
     public int maxOperations(int[] nums, int target) {
         int n = nums.length ;
         if(n < 2){
