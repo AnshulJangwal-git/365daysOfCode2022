@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day33
+Topic - Arrays&Strings
+1. valid Palindrome 2 - https://leetcode.com/problems/valid-palindrome-ii/
+2. car fleet - https://leetcode.com/problems/car-fleet/
+
                                                #Day32
 Topic - Arrays&Strings
 1. Transpose Matrix - https://leetcode.com/problems/transpose-matrix/
