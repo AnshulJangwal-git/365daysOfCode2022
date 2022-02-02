@@ -1,7 +1,7 @@
 //Link - https://leetcode.com/problems/3sum/
 
 import java.util.* ;
-class $36_3sum {
+class $37_3sum {
     public List<List<Integer>> threeSum(int[] arr) {
     int target = 0 ;
     List<List<Integer>> ans = new ArrayList<>() ;
