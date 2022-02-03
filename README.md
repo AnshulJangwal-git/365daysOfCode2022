@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day34
+Topic - Arrays&Strings
+1. Two Sum - https://leetcode.com/problems/two-sum/
+2. 2 sum(Unique Pairs Sum Equal Target) - https://nados.io/question/2-sum-target-sum-unique-pairs
+
                                                #Day33
 Topic - Arrays&Strings
 1. valid Palindrome 2 - https://leetcode.com/problems/valid-palindrome-ii/
