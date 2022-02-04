@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day35
+Topic - Arrays&Strings
+1. 3 Sum - https://leetcode.com/problems/3sum/
+2. 4 Sum - https://leetcode.com/problems/4sum/
+
                                                #Day34
 Topic - Arrays&Strings
 1. Two Sum - https://leetcode.com/problems/two-sum/
