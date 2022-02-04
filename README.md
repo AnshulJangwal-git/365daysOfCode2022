@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+
+                                               #Day36
+Topic - Arrays&Strings
+1. K Sum - https://nados.io/question/k-sum-target-sum-unique-set
+2. max number of k Sum pairs - https://leetcode.com/problems/max-number-of-k-sum-pairs/
+
                                                #Day35
 Topic - Arrays&Strings
 1. 3 Sum - https://leetcode.com/problems/3sum/
