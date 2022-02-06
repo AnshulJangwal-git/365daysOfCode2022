@@ -1,4 +1,8 @@
 # 365DaysOfCode_2022
+                                               #Day37
+Topic - Arrays&Strings
+1. Boats to save People - https://leetcode.com/problems/boats-to-save-people/
+2. Find All Duplicates in an array - https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
                                                #Day36
 Topic - Arrays&Strings
