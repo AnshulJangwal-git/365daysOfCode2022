@@ -1,5 +1,5 @@
 //Leetcode 829 - https://leetcode.com/problems/consecutive-numbers-sum/
-import java.util.* ;
+// import java.util.* ;
 
 class $45consecutiveNumbersSum {
     public int consecutiveNumbersSum(int n) {
