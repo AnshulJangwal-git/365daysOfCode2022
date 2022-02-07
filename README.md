@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day38
+Topic - Arrays&Strings
+1. find and replace pattern - https://leetcode.com/problems/find-and-replace-pattern/
+2. consecutive Numbers sum - https://leetcode.com/problems/consecutive-numbers-sum/
+
                                                #Day37
 Topic - Arrays&Strings
 1. Boats to save People - https://leetcode.com/problems/boats-to-save-people/
