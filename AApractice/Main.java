@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args){
         // Scanner sc = new Scanner(System.in) ;
         System.out.println("Hello world") ;
+        System.out.println("virtual machine exists ") ;
 
         //lambda function...(Sorting on the basis of absolute values)
         // Arrays.sort(arr, (a, b) -> {
