@@ -1,4 +1,11 @@
 # 365DaysOfCode_2022
+                                               #Day40
+Topic - Arrays&Strings
+1. push Dominoes - https://leetcode.com/problems/push-dominoes/
+2. max Product subarray - https://leetcode.com/problems/maximum-product-subarray/
+
+                                               #Day39 -> ABSENT
+
                                                #Day38
 Topic - Arrays&Strings
 1. find and replace pattern - https://leetcode.com/problems/find-and-replace-pattern/
