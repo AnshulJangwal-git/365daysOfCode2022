@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "DSA_Java/HashMap&Heaps",
         "DSA_Java/Graph",
+        "DSA_Java/Arrays_&_Strings",
         "AApractice",
-        "DSA_Java/Arrays_&_Strings"
+        "DSA_Java/sortingAlgos"
     ]
 }
