@@ -1,4 +1,12 @@
 # 365DaysOfCode_2022
+                                               #Day41
+Topic - Searching and Sorting 
+1. Bubble Sort - https://nados.io/question/bubble-sort
+2. Selection sort - https://nados.io/question/selection-sort
+3. Insertion sort - https://nados.io/question/insertion-sort
+4. Merge Two Sorted Arrays - https://nados.io/question/merge-two-sorted-arrays
+5. Merge Sort - https://nados.io/question/merge-sort
+
                                                #Day40
 Topic - Arrays&Strings
 1. push Dominoes - https://leetcode.com/problems/push-dominoes/
