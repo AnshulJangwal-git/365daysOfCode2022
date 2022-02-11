@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day42
+Topic - Arrays&Strings
+1. merge Intervals - https://leetcode.com/problems/merge-intervals/
+2. minimum Platforms - https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1/#                     
+
                                                #Day41
 Topic - Searching and Sorting 
 1. Bubble Sort - https://nados.io/question/bubble-sort
