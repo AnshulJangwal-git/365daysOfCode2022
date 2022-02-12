@@ -1,7 +1,7 @@
 //Leetcode 56 - https://leetcode.com/problems/merge-intervals/
 import java.util.* ;
 
-class Solution {
+class $48mergeIntervals {
     public int[][] merge(int[][] intervals) {
         //sorting of two arrays by comparing their zero idx
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0])) ;
