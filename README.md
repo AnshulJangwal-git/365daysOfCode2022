@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day43
+Topic - Arrays&Strings
+1. meeting rooms 1 - https://pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/arrays-and-strings/meeting_rooms_one_official/ojquestion
+2. meeting rooms 2 - https://pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/arrays-and-strings/meeting_room_two_official/ojquestion
+
                                                #Day42
 Topic - Arrays&Strings
 1. merge Intervals - https://leetcode.com/problems/merge-intervals/
