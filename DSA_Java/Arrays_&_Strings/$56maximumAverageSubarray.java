@@ -1,5 +1,5 @@
 //Leetcode 643 - https://leetcode.com/problems/maximum-average-subarray-i/
-import java.util.* ;
+// import java.util.* ;
 class $56maximumAverageSubarray {
     public double findMaxAverage(int[] nums, int k) {
         int sum = 0 ;
