@@ -1,4 +1,8 @@
 # 365DaysOfCode_2022
+                                               #Day45
+Topic - Searching and Sorting
+1. 
+
                                                #Day44
 Topic - Arrays&Strings
 1. Interval List Intersections - https://leetcode.com/problems/interval-list-intersections/
