@@ -1,5 +1,5 @@
-
-import java.io.*;
+//Link - https://nados.io/question/partition-an-array
+// import java.io.*;
 import java.util.*;
 
 public class $06quickSort {
