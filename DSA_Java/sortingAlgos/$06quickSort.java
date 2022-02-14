@@ -59,3 +59,8 @@ public class $06quickSort {
   }
 
 }
+
+//Time Complexity
+// partitioning an array takes O(n) time and divided by 2 in quick algo takes logn time so,
+// Avg time Complexity - o(nlogn)
+//Worst time Complexity - O(n^2), worst time complexity comes when we need to sort an array
