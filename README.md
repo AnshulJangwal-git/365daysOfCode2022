@@ -1,7 +1,9 @@
 # 365DaysOfCode_2022
                                                #Day45
 Topic - Searching and Sorting
-1. 
+1. Partitioning an array - https://nados.io/question/partition-an-array
+2. Quick Sort - https://nados.io/question/quick-sort
+3. Quick Select - 
 
                                                #Day44
 Topic - Arrays&Strings
