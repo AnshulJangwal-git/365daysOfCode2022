@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day46
+Topic - Arrays&Strings
+1. car Pooling - https://leetcode.com/problems/car-pooling/
+2. maximum Average subarray - https://leetcode.com/problems/maximum-average-subarray-i/
+
                                                #Day45
 Topic - Searching and Sorting
 1. Partitioning an array - https://nados.io/question/partition-an-array
