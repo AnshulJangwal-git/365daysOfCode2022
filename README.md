@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day47
+Topic - Arrays&Strings
+1. minimum Length of Strings after Deleting Similar Ends - https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
+2. set matrix zero - https://leetcode.com/problems/set-matrix-zeroes/
+
                                                #Day46
 Topic - Arrays&Strings
 1. car Pooling - https://leetcode.com/problems/car-pooling/
