@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day48
+Topic - Arrays&Strings
+1. Number of Subarrays With odd sum - https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
+2. Sum of Subsequences sum - https://leetcode.com/problems/sum-of-subsequence-widths/
+
                                                #Day47
 Topic - Arrays&Strings
 1. minimum Length of Strings after Deleting Similar Ends - https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
