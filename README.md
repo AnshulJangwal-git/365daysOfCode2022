@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day49
+Topic - Arrays&Strings
+1. Battleships in a Board - https://leetcode.com/problems/battleships-in-a-board/
+2. sort the matrix diagonally - https://leetcode.com/problems/sort-the-matrix-diagonally/
+
                                                #Day48
 Topic - Arrays&Strings
 1. Number of Subarrays With odd sum - https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
