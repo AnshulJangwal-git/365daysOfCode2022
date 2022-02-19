@@ -1,3 +1,4 @@
+//Link - https://practice.geeksforgeeks.org/problems/binary-search/1
 import java.util.* ;
 public class $01binarySearch{
     public static void main(String[] args){

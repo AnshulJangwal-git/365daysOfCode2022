@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day50
+Topic - Searching and Sorting
+1. Count Sort - https://nados.io/question/count-sort
+2. Binary Search - https://practice.geeksforgeeks.org/problems/binary-search/1
+
                                                #Day49
 Topic - Arrays&Strings
 1. Battleships in a Board - https://leetcode.com/problems/battleships-in-a-board/
