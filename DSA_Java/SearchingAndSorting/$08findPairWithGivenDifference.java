@@ -1,6 +1,6 @@
 //Link - https://nados.io/question/find-pair-with-given-difference
 import java.util.*;
-import java.io.*;
+// import java.io.*;
 
 public class $08findPairWithGivenDifference {
 
