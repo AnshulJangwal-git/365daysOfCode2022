@@ -46,4 +46,56 @@ class $07findKClosestElements {
             }
         }
     }
+
+    //Optimised Approach using binarySearch
+public static ArrayList<Integer> findClosest2(int[]arr,int k,int x) {
+    int lo = 0 ;
+    int hi = arr.length - 1 ;
+    int mid = 0 ;
+    
+    while(lo <= hi){
+        mid = (lo + hi) / 2 ;
+        if(arr[mid] == x){
+            break ;
+            
+        }else if(arr[mid] < x){
+            lo = mid + 1 ;
+            
+        }else{
+            hi = mid - 1 ;
+            
+        }
+    }
+    int left = mid - 1 ;
+    int right = mid ;
+    ArrayList<Integer> list = new ArrayList<>() ;
+    
+    while(left >= 0 && right < arr.length && k > 0){
+        if(Math.abs(arr[left] - x) <= Math.abs(arr[right] - x)){
+            list.add(arr[left]) ;
+            left -- ;
+            
+        }else{
+            list.add(arr[right]) ;
+            right ++ ;
+            
+        }
+        k -- ;
+    }
+    while(k > 0 && left >= 0){
+        list.add(arr[left]) ;
+        left -- ;
+        k -- ;
+    }
+    
+    while(k > 0 && right < arr.length){
+        list.add(arr[right]) ;
+        right ++ ;
+        k -- ;
+    }
+    
+    Collections.sort(list) ;
+    return list ;
+}
+
 }
