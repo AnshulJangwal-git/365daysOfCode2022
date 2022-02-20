@@ -1,6 +1,6 @@
 //Link - https://nados.io/question/union-of-two-sorted-arrays
 import java.util.*;
-import java.io.*;
+// import java.io.*;
 
 public class $03unionOfTwoArrays {
 

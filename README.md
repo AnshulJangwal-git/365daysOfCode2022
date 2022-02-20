@@ -1,4 +1,8 @@
 # 365DaysOfCode_2022
+                                               #Day51
+Topic - Searching and Sorting
+1. Marks of PCM - https://practice.geeksforgeeks.org/problems/marks-of-pcm2529/1
+2. union of towo arrays - https://nados.io/question/union-of-two-sorted-arrays
                                                #Day50
 Topic - Searching and Sorting
 1. Count Sort - https://nados.io/question/count-sort
