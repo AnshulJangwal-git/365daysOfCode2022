@@ -1,4 +1,8 @@
 # 365DaysOfCode_2022
+                                               #Day52
+Topic - Searching and Sorting
+1. search a 2d Matrix - https://leetcode.com/problems/search-a-2d-matrix/
+2. search a 2d Matrix2 - https://leetcode.com/problems/search-a-2d-matrix-ii/
 
                                                #Day51
 Topic - Searching and Sorting
