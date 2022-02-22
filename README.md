@@ -1,5 +1,8 @@
 # 365DaysOfCode_2022
-                    
+                                               #Day53
+Topic - Searching and Sorting
+1. Find Pivot Index - https://leetcode.com/problems/find-pivot-index/
+2. Find k Closest Elements - https://leetcode.com/problems/find-k-closest-elements/
 
                                                #Day52
 Topic - Searching and Sorting
