@@ -1,6 +1,6 @@
 import java.util.* ;
 //Leetcode525 - https://leetcode.com/problems/contiguous-array/
-class Solution {
+class contiguousSubArray {
     public int findMaxLength(int[] arr) {
         HashMap<Integer, Integer> map = new HashMap<>() ;
         map.put(0, -1) ;
