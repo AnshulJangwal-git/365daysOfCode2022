@@ -1,4 +1,11 @@
 # 365DaysOfCode_2022
+                                               #Day54
+Topic - Searching and Sorting
+1. Find Pair With Given Difference - https://nados.io/question/find-pair-with-given-difference
+2. roof top - https://nados.io/question/roof-top
+3. Maximise the sum (arr[i] * i) of an Array - https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array0026/1/#
+4. count Inversions - https://nados.io/question/count-inversions
+
                                                #Day53
 Topic - Searching and Sorting
 1. Find Pivot Index - https://leetcode.com/problems/find-pivot-index/
