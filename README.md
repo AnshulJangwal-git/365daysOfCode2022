@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day55
+Topic - Searching and Sorting 
+1. Find first and last position in a sorted Array - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+2. max sum in the configuration - https://nados.io/question/max-sum-in-the-configuration
+3. Search in rotated sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
+
                                                #Day54
 Topic - Searching and Sorting
 1. Find Pair With Given Difference - https://nados.io/question/find-pair-with-given-difference
