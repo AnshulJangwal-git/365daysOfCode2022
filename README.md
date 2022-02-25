@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day56
+Topic - Searching and Sorting
+1. find Min in rotated sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+2. Find rotation Count - https://practice.geeksforgeeks.org/problems/rotation4723/1/#
+3. Median of Two Sorted Arrays - https://leetcode.com/problems/median-of-two-sorted-arrays/
+
                                                #Day55
 Topic - Searching and Sorting 
 1. Find first and last position in a sorted Array - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
