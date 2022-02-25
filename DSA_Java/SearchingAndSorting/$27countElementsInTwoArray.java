@@ -1,3 +1,4 @@
+//Link - https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1#
 import java.util.*;
 // import java.io.*;
 
@@ -14,6 +15,28 @@ public class $27countElementsInTwoArray {
     }
     return ans ;
   }
+
+  public static int[] find2(int[]arr1, int[]arr2) { //Using HashMap..
+    HashMap<Integer, Integer> map = new HashMap<>() ;
+    for(int val : arr2){
+      map.put(val, map.getOrDefault(val, 0) + 1) ;
+    }
+    int count = 0 ;
+
+    for(int i = 0; i < arr1.length; i++){
+      int key = arr1[i] ;
+      for(int val : map.keySet()){
+        if(val <= key){
+          count += map.get(val) ;
+        }
+      }
+      arr1[i] = count ;
+      count = 0 ;
+    }
+    return arr1 ;
+  }
+
+
 
   public static int helper(int key, int[] arr){
     int count = 0 ;
@@ -59,3 +82,43 @@ public class $27countElementsInTwoArray {
     }
   }
 }
+
+//Using freq Array and prefix sum array...
+class Solution
+{
+    public static ArrayList<Integer> countEleLessThanOrEqual(int arr1[], int arr2[], int m, int n)
+    {
+       int max = 0 ;
+    for(int val : arr1){
+      max = Math.max(max, val) ;
+    }
+
+    for(int val : arr2){
+      max = Math.max(max, val) ;
+    }
+
+
+    int[] farr = new int[100000] ;
+    for(int i = 0; i < arr2.length; i++){
+      farr[arr2[i]] ++ ;
+    }
+
+    int[] psa = new int[100000] ;
+    psa[0] = farr[0] ;
+
+    for(int i = 1; i < psa.length; i ++){
+      psa[i] = psa[i - 1] + farr[i] ;
+    }
+
+//   int[] ans = new int[arr1.length] ;
+   ArrayList<Integer> ans = new ArrayList<>() ;
+   for(int i = 0; i < arr1.length; i++){
+     int key = arr1[i] ;
+    //  ans[i] = psa[key] ;
+    ans.add(psa[key]) ;
+   }
+  return ans ;
+    }
+}
+
+
