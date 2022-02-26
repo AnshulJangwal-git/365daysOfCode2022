@@ -1,4 +1,11 @@
 # 365DaysOfCode_2022
+                                               #Day57
+Topic - Searching and Sorting
+1. Koko Eating bananas - https://leetcode.com/problems/koko-eating-bananas/
+2. find smallest Divisor Given a Threshold - https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+3. chocolate Distribution - https://nados.io/question/chocolate-distribution
+4. Allocate minimum Number of Pages - https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1/#
+
                                                #Day56
 Topic - Searching and Sorting
 1. find Min in rotated sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
