@@ -1,4 +1,12 @@
 # 365DaysOfCode_2022
+                                               #Day58
+Topic - Searching and Sorting
+1. split Array largest sum - https://leetcode.com/problems/split-array-largest-sum/
+2. Capacity to ship packages Within D days - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+3. Count the triplets - https://nados.io/question/count-the-triplets
+4. Count Possible triangles - https://nados.io/question/count-possible-triangles
+5. count zeroes in a sorted matrix - https://nados.io/question/count-zeros-in-a-sorted-matrix
+
                                                #Day57
 Topic - Searching and Sorting
 1. Koko Eating bananas - https://leetcode.com/problems/koko-eating-bananas/
