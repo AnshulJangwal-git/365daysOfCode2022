@@ -1,3 +1,4 @@
+//Link - https://practice.geeksforgeeks.org/problems/punish-the-students5726/1#
 class $37punishTheStudents
 {
     public static int shouldPunish (int roll[], int marks[], int n, double avg)
