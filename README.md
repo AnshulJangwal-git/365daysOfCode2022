@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day59
+Topic - Searching and Sorting
+1. count Elements in Two Array - https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1#
+2. count zeroes XOR Pairs - https://practice.geeksforgeeks.org/problems/counts-zeros-xor-pairs0349/1
+3. Facing the sun - https://practice.geeksforgeeks.org/problems/buildings-receiving-sunlight3032/1/#
+
                                                #Day58
 Topic - Searching and Sorting
 1. split Array largest sum - https://leetcode.com/problems/split-array-largest-sum/
