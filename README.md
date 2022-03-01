@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day60
+Topic - Searching and Sorting 
+1. Distinct absolute array elements - https://practice.geeksforgeeks.org/problems/distinct-absolute-array-elements4529/1#
+2. Find Transition Point - https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1/
+3. First Bad Version - https://leetcode.com/problems/first-bad-version/
+
                                                #Day59
 Topic - Searching and Sorting
 1. count Elements in Two Array - https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1#
