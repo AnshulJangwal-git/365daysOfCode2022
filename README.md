@@ -1,4 +1,11 @@
 # 365DaysOfCode_2022
+                                               #Day61
+Topic - Searching and Sorting 
+1. Guess Number Higher or Lower - https://leetcode.com/problems/guess-number-higher-or-lower/
+2. Single Element in sorted Array - https://leetcode.com/problems/single-element-in-a-sorted-array/
+3. Row with max Ones - https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1#
+4. Heaters - https://leetcode.com/problems/heaters/
+
                                                #Day60
 Topic - Searching and Sorting 
 1. Distinct absolute array elements - https://practice.geeksforgeeks.org/problems/distinct-absolute-array-elements4529/1#
