@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day62
+Topic - Searching and Sorting
+1. punish the students - https://practice.geeksforgeeks.org/problems/punish-the-students5726/1#
+2. largest Number - https://leetcode.com/problems/largest-number/
+3. largest Perimeter Trianlge - https://leetcode.com/problems/largest-perimeter-triangle/
+
                                                #Day61
 Topic - Searching and Sorting 
 1. Guess Number Higher or Lower - https://leetcode.com/problems/guess-number-higher-or-lower/
