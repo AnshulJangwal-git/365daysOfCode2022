@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day64
+Topic - Stacks And Queues
+1. Duplicate Brackets - https://nados.io/question/duplicate-brackets
+2. valid Parenthesis - https://leetcode.com/problems/valid-parentheses/
+3. next Greater Element to the Right - https://nados.io/question/next-greater-element-to-the-right
+
                                                #Day63
 Topic - Searching and Sorting
 1. Leaders - https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1#
