@@ -1,4 +1,10 @@
 # 365DaysOfCode_2022
+                                               #Day65
+Topic - Bit Manipulation
+1. Basics of BM - https://nados.io/question/basics-of-bit-manipulation
+2. Print value of rsb Mask - https://nados.io/question/print-value-of-rsb-mask
+3. Kernighans Algorithm(To find the no of set bits) - https://practice.geeksforgeeks.org/problems/set-bits0143/1/#
+
                                                #Day64
 Topic - Stacks And Queues
 1. Duplicate Brackets - https://nados.io/question/duplicate-brackets
