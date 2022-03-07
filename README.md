@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day66
+Topic - Bit Manipulation
+1. minimum Number of software developer - https://nados.io/question/minimum-number-of-software-developers
+2. Number of valid words - https://nados.io/question/number-of-valid-words
+
                                                #Day65
 Topic - Bit Manipulation
 1. Basics of BM - https://nados.io/question/basics-of-bit-manipulation
