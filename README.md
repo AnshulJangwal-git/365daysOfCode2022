@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day67
+Topic - Bit Manipulation
+1. Single Number - https://leetcode.com/problems/single-number/
+2. Single Number3 - https://leetcode.com/problems/single-number-iii/
+
                                                #Day66
 Topic - Bit Manipulation
 1. minimum Number of software developer - https://nados.io/question/minimum-number-of-software-developers
