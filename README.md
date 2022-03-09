@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day68
+Topic - Bit Manipulation
+1. Missing Number - https://leetcode.com/problems/missing-number/
+2. One Repeating One Missing - https://nados.io/question/one-repeating-and-one-missing
+
                                                #Day67
 Topic - Bit Manipulation
 1. Single Number - https://leetcode.com/problems/single-number/
