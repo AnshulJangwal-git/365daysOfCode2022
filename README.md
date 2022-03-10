@@ -1,4 +1,9 @@
 # 365DaysOfCode_2022
+                                               #Day69
+Topic - Bit Manipulation
+1. Single Number2 - https://leetcode.com/problems/single-number-ii/
+2. Count Triplets of Equal XOR - https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
+
                                                #Day68
 Topic - Bit Manipulation
 1. Missing Number - https://leetcode.com/problems/missing-number/
