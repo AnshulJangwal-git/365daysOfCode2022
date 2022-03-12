@@ -1,3 +1,5 @@
+# Link - https://nados.io/question/print-z
+
 print("*****") ;
 print("   *") ;
 print("  *") ;
