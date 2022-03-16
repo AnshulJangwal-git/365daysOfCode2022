@@ -1,4 +1,5 @@
 // Link - https://nados.io/question/count-set-bits-in-first-n-natural-numbers
+// Link - https://practice.geeksforgeeks.org/problems/sherlock-and-his-enemies2304/1/#
 import java.io.*;
 import java.util.*;
 
