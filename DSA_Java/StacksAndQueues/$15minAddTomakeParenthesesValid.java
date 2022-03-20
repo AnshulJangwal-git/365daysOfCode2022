@@ -25,3 +25,28 @@ class $15minAddTomakeParenthesesValid {
         return st.size() ;
     }
 }
+
+//Optimized Approach - O(n) time and O(1) Space
+class Solution {
+    public int minAddToMakeValid2(String s) {
+        int openingCount = 0 ;
+        int invalidCount = 0 ; 
+        
+        for(int i = 0; i < s.length(); i++){
+            char ch = s.charAt(i) ;
+            if(ch == '('){
+                openingCount ++ ;
+                
+            }else if(ch == ')'){
+                if(openingCount == 0){
+                    invalidCount ++ ;
+                }else{
+                    openingCount -- ;
+                }
+            }else{
+                //nothing to do
+            }
+        }
+        return openingCount + invalidCount ;
+    }
+}
