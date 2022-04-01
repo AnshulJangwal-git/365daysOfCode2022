@@ -1,4 +1,6 @@
 import java.util.* ;
+import java.lang.* ;
+
 
 public class vector2 {
     public static void main(String[] args){
@@ -21,8 +23,14 @@ public class vector2 {
 
         // System.out.println(v.firstElement()) ;
 
-        System.out.println(v.get(1)) ;
+        // System.out.println(v.get(1)) ;
+        String s = v.toString() ;
+        System.out.println(s) ;
 
+        Object[] arr = v.toArray() ;
+        for(int i = 0; i < arr.length; i++){
+            System.out.println(arr[i]) ;
+        }
 
     }
 }
