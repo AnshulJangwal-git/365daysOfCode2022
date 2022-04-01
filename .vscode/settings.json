@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
         "DSA_Java/sortingAlgos",
+        "DSA_Java/SearchingAndSorting",
         "DSA_Java/HashMap&Heaps",
         "DSA_Java/Graph",
         "DSA_Java/Arrays_&_Strings",
         "AApractice",
-        "DSA_Java/SearchingAndSorting"
+        "DSA_Java/Vector"
     ]
 }
