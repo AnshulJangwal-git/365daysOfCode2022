@@ -56,3 +56,26 @@ class $07mergeKSortedList {
     }
     
 }
+
+// Method 2 - Using priority Queue..
+    // public ListNode mergeKLists2(ListNode[] lists) {        
+    //     //Method 2 - Using Priority Queue
+    //     PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> {
+    //         return a.val - b.val ;
+    //     }) ;
+    //     for(ListNode l : lists) if(l != null) pq.add(l) ;
+        
+    //     ListNode dummy = new ListNode(-1) ;
+    //     ListNode prev = dummy ;
+        
+    //     while(pq.size() > 0){
+    //         ListNode rem = pq.remove() ;
+            
+    //         prev.next = rem ;
+    //         prev = prev.next ;
+    //         rem = rem.next ;
+    //         if(rem != null) pq.add(rem) ;
+    //     }
+    //     return dummy.next ;
+        
+    // }
