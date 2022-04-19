@@ -4,8 +4,8 @@ d = int(input())
 def freq(n, d):
     count = 0 
     while(n > 0) :
-        rem = n % 10 
-        if(rem == d) :
+        dig = n % 10 
+        if(dig == d) :
             count += 1
         n = n // 10
     
