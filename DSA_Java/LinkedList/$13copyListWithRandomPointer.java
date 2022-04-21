@@ -44,3 +44,55 @@ class $13copyListWithRandomPointer {
         return nHead ;
     }
 }
+
+// Without Using extra Space
+
+class Solution {
+    public Node copyRandomList(Node head) {
+//         Without using extra space
+        
+        copyList(head) ;
+        copyRandomPointers(head) ;
+        return extractList(head) ;
+    }
+    
+    public Node extractList(Node head){
+        Node dummy = new Node(-1) ;
+        Node prev = dummy ;
+        Node curr = head ;
+        
+        while(curr != null){
+            prev.next = curr.next ;
+            curr.next = curr.next.next ;
+            
+            prev = prev.next ;
+            curr = curr.next ;
+        }
+        return dummy.next ;
+    }
+    
+    public void copyRandomPointers(Node head){
+        Node curr = head ;
+        while(curr != null){
+            Node random = curr.random ;
+            if(random != null){
+                curr.next.random = random.next ;
+            }
+            curr = curr.next.next ;
+        }
+    }
+    
+    
+    public void copyList(Node head){
+        Node curr = head ;
+        while(curr != null){
+            Node forw = curr.next ;
+            
+            Node node = new Node(curr.val) ;
+            curr.next = node ;
+            node.next = forw ;
+            
+            curr = forw ;
+        }
+    }
+}
