@@ -25,5 +25,4 @@ public class $03maxOfArray {
         int maxVal = maxOfArray(arr, idx + 1) ;
         return Math.max(maxVal, arr[idx]) ;
     }
-
 }
