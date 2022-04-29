@@ -11,7 +11,7 @@ class $24segregate012NodesOfLinkedList {
             this.val = val;
         }
     }
-
+    
     public static ListNode segregate012(ListNode head) {
         if(head == null || head.next == null){
             return head ;
