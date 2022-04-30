@@ -60,7 +60,7 @@ class $02addLast {
             
         }else{
             this.tail.next = node ;
-            node.prev = tail ;
+            node.prev = this.tail ;
             this.tail = node ;
         }
         this.size ++ ;
