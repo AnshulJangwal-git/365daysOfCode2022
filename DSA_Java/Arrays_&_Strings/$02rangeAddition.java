@@ -33,6 +33,7 @@ public class $02rangeAddition {
 
 
 // Brute Force Solution..
+// Time Complexity - O(n * q), q = no of queries
 public class solution{
     public int[] getModifiedArray2(int length, int[][] updates) {
         int[] ans = new int[length] ;
