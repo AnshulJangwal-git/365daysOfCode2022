@@ -29,6 +29,23 @@ public class $02rangeAddition {
 
         return ps ;
     }
+}
 
 
+// Brute Force Solution..
+public class solution{
+    public int[] getModifiedArray2(int length, int[][] updates) {
+        int[] ans = new int[length] ;
+    
+        for(int[] update : updates){
+            int si = update[0] ;
+            int ei = update[1] ;
+            int inc = update[2] ;
+    
+            for(int i = si; i <= ei; i++){
+                ans[i] = ans[i] + inc ;
+            }
+        }
+        return ans ;
+    }
 }
