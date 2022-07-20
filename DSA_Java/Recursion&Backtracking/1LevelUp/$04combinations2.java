@@ -5,18 +5,17 @@ public class $04combinations2 {
 
   public static void combinations(boolean[] boxes, int ci, int ti, int lb){
     if(ci > ti){
-        for(int i = 0; i < boxes.length; i ++){
-            if(boxes[i] == true){
-                System.out.print("i") ;
-                
-            }else{
-                System.out.print("-") ;
-            }
+        for(int i = 0; i < boxes.length; i++){
+          if(boxes[i] == true){
+            System.out.print("i") ;
+
+          }else{
+            System.out.print("-") ;
+          }
         }
         System.out.println() ;
         return ;
     }
-    
     
     for(int bi = lb + 1; bi < boxes.length; bi ++){
         if(boxes[bi] == false){
